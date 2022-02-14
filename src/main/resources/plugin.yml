@@ -1,0 +1,12 @@
+name: BirdHaus.Experimental
+version: '${project.version}'
+main: birdhaus.experimental.Experimental
+api-version: 1.18
+commands:
+  wolf:
+    description: Ryan's experimental wolf commands
+    usage: /<command> call
+           /<command> stable
+           /<command> tp
+  deeznuts:
+    description: Jack is a child
